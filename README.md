@@ -25,7 +25,7 @@
 
 ---
 
-:man_technologist: About Me: 
+### :man_technologist: About Me: 
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 
@@ -40,17 +40,43 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<!--
-**Sasitha-SD/Sasitha-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+:computer: Languages <br>
+  Java | C+ | C# | TypeScript | Javascript | HTML | CSS | SCSS | Python
+ </div>
+  
+<br>
 
-Here are some ideas to get you started:
+<div>
+:hammer_and_wrench: Tools  <br>
+  Figma | Adobe XD | Postman 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :window: Front End Dev  <br>
+  Angular | React 
+
+---
+ 
+### :stethoscope: Back End Dev <br>
+  Node.Js
+  
+--- 
+
+### :bucket: Database <br>
+  Mongo.DB | SQL | 
+  
+--- 
+
+### :bricks: Design Frameworks/Libraries  <br>
+  Bootstap | ANT Design | Tailwind CSS | Angular Material UI 
+  
+---
+
+### :star2:   My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sasitha-SD&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasitha-SD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
