@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<!-- <div align="center"> 
+ <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Sasitha-SD&style=flat-square&color=blue" alt=""/>
-</div> -->
+</div> 
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
