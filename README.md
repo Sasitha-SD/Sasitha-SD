@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/sasitha-dassanayake21/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/sasi_senizo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -69,11 +66,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :bricks: Design Frameworks/Libraries  <br>
   Bootstap | ANT Design | Tailwind CSS | Angular Material UI 
-  
----
-
-### :star2:   My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sasitha-SD&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
